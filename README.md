@@ -13,3 +13,4 @@ Handles server-side logic and APIs.
 
 ## Project Status
 Version 1 (v1) – Live
+CD test – auto deploy working
